@@ -1,0 +1,28 @@
+
+.container2 {
+    border: thick double #3fce32;
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    border: 0px;
+    cursor: pointer;
+}
+
+div {
+    margin: 5px;
+    padding: 5px;
+    size: 1em;
+}
+
+.add {
+    background: #2ecc71;
+}
+.sub {
+    background: #c0392b;
+}
